@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\tek-çift-sayı\tek-çift-sayı\bin\Debug\tek-çift-sayı.exe.config
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\tek-çift-sayı\tek-çift-sayı\bin\Debug\tek-çift-sayı.exe
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\tek-çift-sayı\tek-çift-sayı\bin\Debug\tek-çift-sayı.pdb
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\tek-çift-sayı\tek-çift-sayı\obj\Debug\tek-çift-sayı.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\tek-çift-sayı\tek-çift-sayı\obj\Debug\tek-çift-sayı.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\tek-çift-sayı\tek-çift-sayı\obj\Debug\tek_çift_sayı.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\tek-çift-sayı\tek-çift-sayı\obj\Debug\tek_çift_sayı.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\tek-çift-sayı\tek-çift-sayı\obj\Debug\tek-çift-sayı.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\tek-çift-sayı\tek-çift-sayı\obj\Debug\tek-çift-sayı.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\tek-çift-sayı\tek-çift-sayı\obj\Debug\tek-çift-sayı.exe
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\tek-çift-sayı\tek-çift-sayı\obj\Debug\tek-çift-sayı.pdb
